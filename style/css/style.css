@@ -79,11 +79,13 @@
 .main_sixth_row5 span{color:#FCD036;font-size: 1.5rem}
 /*底部样式*/
 .foot_con_bg{width: 100%;background:#eee;}
-.foot_con{max-width:1200px;margin:0 auto;text-align:left; padding-top:46px; padding-bottom:60px;font-size: 12px;}
+.foot_con{max-width:1200px;margin:0 auto;text-align:left; padding-top:46px; padding-bottom:70px;font-size: 12px;}
 .index-last-foot span{color:#939393;}
 .foot_con_left{width: 80%;margin-left: 50px;}
-.foot_con_left,.foot_con_right{float: left;	}
-.jcontent{background:#eee;}
+.foot_con_left,.foot_con_right{
+	float: left;
+}
+
 /* 中等设备 */
 @media(min-width:768px){
 	
