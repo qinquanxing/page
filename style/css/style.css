@@ -1,0 +1,104 @@
+/***
+    开始  
+ */
+ ul,ol{list-style-type:none;padding-inline-start: 0px !important;}
+ a{text-decoration: none;}
+/* 小设备 */
+/*头部分*/
+.header_title{margin-top:32px;}
+
+.header_con{max-width:1200px;margin:0 auto;}	
+.header_desc_line1{background: #fff;margin:0 2.5rem;height: 24px;border-radius:6px 6px 0px 0px;opacity:0.2;position: relative;top:12px;margin-top:8px}
+.header_desc_line2{background: #fff;margin:0 1.25rem;height: 12px;border-radius:6px 6px 0px 0px;opacity:0.2;}	
+.header_desc{background:#fff;padding:14px 16px;border-radius:6px;text-indent: 2em;font-size: 1.25rem;letter-spacing: 1px}
+
+.header_list{max-width:1200px;margin:0 auto;}
+.header_list .col{margin-top:24px}		
+/*主体第一部分*/
+.main_first_title{margin-top:50px;}
+.main_first_list{max-width: 1200px;margin:0 auto}
+.main_first_list .col{margin-top:44px}
+.main_first_list .dtopleft{float:left;width:138px;display: inline-block;margin-left: 12px;}
+.main_first_list .dtopleftname{font-size:24px;margin-top:18px;text-align:center;font-weight:bold;color:#fff}
+.main_first_list .dtopleftzw{font-size:22px;margin-top:18px;text-align:center;color:#fff}
+.main_first_list .dtopright{float:right;display: inline-block}
+.main_first_list .dtoprighttitle{color:#fff;font-weight:bold;text-align: left;font-size:26px;line-height: 36px;padding-bottom: 18px;border-bottom: 1px dashed #A495C6;margin-left: 170px;margin-right: 12px;}
+.main_first_list .dtoprightjy{padding:18px 0px; border-bottom: 1px dashed #A495C6;font-size:18px;color:#fff;line-height: 26px;margin-left: 170px;margin-right: 12px;}
+.main_first_list .dtoprightjy span{display:  inline-block;padding:1px 3px;background: #CEFFFD;border-radius: 5px;color:#3C2CB6}
+.main_first_list .dtoprightsx{font-size:18px;color:#fff;line-height: 26px;padding-top: 18px;margin-left: 170px;margin-right: 12px}
+.main_first_list .dtoprightbtn{margin-top: 22px;width:130px;height:30px;background: #FFD237;text-align: center;line-height: 30px;border-radius: 12px;margin-left: 170px;}
+.main_first_list .dtoprightbtn a{color:#222674;text-decoration: none;}
+
+/*主体第二部分*/
+.main_second_title{margin-top:50px;}
+.main_second_list{max-width: 1200px;margin:0 auto;padding-bottom:40px;}
+.main_second_list .glistLeft{float: left;display: inline-block;margin-right: 25px;margin-top:4px; margin-left:8px}
+.main_second_list .glistRight{color:#fff;display: inline-block;margin-top: 40px}
+.main_second_list .glistRighttop{margin-left: 12px;font-size: 24px}
+.main_second_list .glistRighttop span{font-weight: bold;font-size:26px}
+.main_second_list .glistRightend{border:1px solid #9C8CC1;line-height: 32px;padding:20px 24px;letter-spacing: 2px;border-radius: 5px;margin: 12px;white-space:normal;word-break:break-all;margin-bottom: 0px;max-width: 1200px;}
+
+/*主体第三部分*/	
+.main_four_bg{width: 100%;background: url("../img/images/ebg.png") no-repeat 100% 100%;background-position: center top;background-size: cover; /* 保持图片的宽高比，完全覆盖元素 */ }
+.main_four_title{padding-top:35px;color:#482A8C}
+.main_four_list{margin-top: 12px;max-width: 1200px;margin:0 auto;padding-bottom:40px}
+.main_four_list .ul_style2{background: #fff;width:330px;height:320px;border-radius: 8px;margin:10px 0px;}
+.main_four_list .ecorelitop{padding-top: 16px}
+.main_four_list .ecorelitop .ecorelitopleft{float: left;padding-left:6px;}
+.main_four_list img{max-width: 142px}
+.main_four_list .ecorelitop .ecorelitopright{float: right;max-width:180px;padding-right: 6px;display: inline-block;}
+.main_four_list p{color:#414141;overflow: hidden;}
+.main_four_list .ecorelitoprightbtn{max-width:166px;height:32px;line-height:32px;background: #696DAB;border-radius: 8px;font-size:1rem;letter-spacing: 1px;margin-top: 8px}
+.main_four_list .ecorelitoprightbtn a{color:#fff}
+.main_four_list .ecorelibuttom ul{margin-top: 24px;}
+.main_four_list .ecorelibuttom ul li{border: 1px solid #E0E0E0;width:90px;height:90px;float: left;margin:0px 10px}
+
+/*主体第四部分*/
+.main_fifth_title{margin-top:50px;}
+.main_fifth_list{margin-top: 12px;max-width: 1200px;margin:0 auto;padding-bottom:40px}
+.main_fifth_list .ul_style2{background: #fff;width:330px;height:320px;border-radius: 8px;margin:10px 0px;padding-bottom:30px}
+.main_fifth_list .ecorelitop{padding-top: 16px}
+.main_fifth_list .ecorelitop .ecorelitopleft{float: left;padding-left:6px;}
+.main_fifth_list .ecorelitop .ecorelitopleft img{width: 142px}
+.main_fifth_list .ecorelitop .ecorelitopright{float: right;max-width:180px;padding-right: 6px;display: inline-block;}
+.main_fifth_list .ecorelitop .ecorelitopright .ecorelitoprighttitle{font-size: 20px;font-weight: bold}
+.main_fifth_list .ecorelitop .ecorelitopright .ecorelitoprightdesc{font-size: 16px;color:#414141;line-height: 22px;padding-top:12px;height: 77px;overflow: hidden;}
+.main_fifth_list .ecorelitop .ecorelitopright .ecorelitoprightbtn{text-align: center;max-width:166px;height:32px;line-height:32px;background: #696DAB;border-radius: 8px;font-size:16px;letter-spacing: 1px;margin-top: 14px}
+.main_fifth_list .ecorelitop .ecorelitopright .ecorelitoprightbtn a{color:#fff}
+.main_fifth_list .ecorelibuttom ul{margin-top: 18px;}
+.main_fifth_list .ecorelibuttom ul li{border: 1px solid #E0E0E0;width:90px;height:90px;float: left;margin:0px 10px}
+	
+/*主体第五部分*/	
+.main_sixth_bg{width: 100%;background: url("../img/images/fbg.png") no-repeat 100% 100%;}
+.main_sixth_row1{max-width: 100%;width:554px;margin:0 auto;padding-top:200px}
+.main_sixth_row2{max-width: 372px;margin:0 auto;margin-top: 60px}/*width:372px;*/
+.main_sixth_row3{margin-top: 6px;text-align: center;font-size: 1.625rem;letter-spacing: 2px}
+.main_sixth_row3 span{font-size: 1.75rem;color:#61CFF4}
+.main_sixth_row4{max-width: 370px;margin:0 auto;margin-top: 80px}/*width:370px;*/
+.main_sixth_row5{max-width: 100%;color:#fff;line-height: 44px;width:664px;margin: 0 auto;margin-top: 10px;padding-bottom:40px}
+.main_sixth_row5 span{color:#FCD036;font-size: 1.5rem}
+/*底部样式*/
+.foot_con_bg{width: 100%;background:#eee;}
+.foot_con{max-width:1200px;margin:0 auto;text-align:left; padding-top:46px; padding-bottom:70px;font-size: 12px;}
+.index-last-foot span{color:#939393;}
+.foot_con_left{width: 80%;margin-left: 10px;}
+.foot_con_left,.foot_con_right{
+	float: left;
+}
+
+/* 中等设备 */
+@media(min-width:768px){
+	
+/* 高等设备 */
+@media(min-width:992px){	
+	
+} 
+
+
+
+	
+/**
+    结束
+ */
+
+
