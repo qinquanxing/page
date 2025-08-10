@@ -71,17 +71,17 @@
 /*主体第五部分*/	
 .main_sixth_bg{width: 100%;background: url("../img/images/fbg.png") no-repeat 100% 100%;}
 .main_sixth_row1{max-width: 100%;width:554px;margin:0 auto;padding-top:200px}
-.main_sixth_row2{max-width: 100%;width:372px;margin:0 auto;margin-top: 60px}
+.main_sixth_row2{max-width: 372px;margin:0 auto;margin-top: 60px}/*width:372px;*/
 .main_sixth_row3{margin-top: 6px;text-align: center;font-size: 1.625rem;letter-spacing: 2px}
 .main_sixth_row3 span{font-size: 1.75rem;color:#61CFF4}
-.main_sixth_row4{max-width: 100%;width:370px;margin:0 auto;margin-top: 80px}
+.main_sixth_row4{max-width: 370px;margin:0 auto;margin-top: 80px}/*width:370px;*/
 .main_sixth_row5{max-width: 100%;color:#fff;line-height: 44px;width:664px;margin: 0 auto;margin-top: 10px;padding-bottom:40px}
 .main_sixth_row5 span{color:#FCD036;font-size: 1.5rem}
 /*底部样式*/
 .foot_con_bg{width: 100%;background:#eee;}
 .foot_con{max-width:1200px;margin:0 auto;text-align:left; padding-top:46px; padding-bottom:70px;font-size: 12px;}
 .index-last-foot span{color:#939393;}
-.foot_con_left{width: 80%;margin-left: 50px;}
+.foot_con_left{width: 80%;margin-left: 10px;}
 .foot_con_left,.foot_con_right{
 	float: left;
 }
